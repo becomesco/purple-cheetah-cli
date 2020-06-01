@@ -1,0 +1,9 @@
+------------------------------------------------------------
+-------------------- Purple Cheetah CLI --------------------
+------------------------------------------------------------
+
+bpcc [ARGS] [OPTIONS]
+
+--help  - Will print this message.
+--name  - Specify the name of the project that will be
+          created.
